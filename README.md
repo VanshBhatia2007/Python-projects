@@ -26,10 +26,10 @@ This repo is where I practice, experiment, and grow — one project at a time.
 
 ## 🛠️ Projects List
 
-| 🔢 No. | 📁 Project Name             | 📚 Description                                | 🔗 Folder Link       |
+| 🔢 No. | 📁 Project Name             | level                                | 🔗 Folder Link       |
 |-------|-----------------------------|-----------------------------------------------|----------------------|
-| 01    | Dice Rolling Game           | Simulates two dice using `random`             | [dice-rolling-game](dice-rolling-game) |
-| 02    | Number Guessing Game        | A simple game where you guess a random number | [guess-the-number](basic_projects/number-guessing-game) |
+| 01    | Dice Rolling Game           | basic             | [dice-rolling-game](basic_projects/dice-rolling-game) |
+| 02    | Number Guessing Game        | basic| [guess-the-number](basic_projects/number-guessing-game) |
 
 
 > More projects coming soon! 🔥
