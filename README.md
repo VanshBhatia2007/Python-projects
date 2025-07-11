@@ -29,7 +29,7 @@ This repo is where I practice, experiment, and grow — one project at a time.
 | 🔢 No. | 📁 Project Name             | 📚 Description                                | 🔗 Folder Link       |
 |-------|-----------------------------|-----------------------------------------------|----------------------|
 | 01    | Dice Rolling Game           | Simulates two dice using `random`             | [dice-rolling-game](dice-rolling-game) |
-| 02    | Number Guessing Game        | A simple game where you guess a random number | [guess-the-number](guess-the-number) |
+| 02    | Number Guessing Game        | A simple game where you guess a random number | [guess-the-number](number-guessing-game) |
 
 
 > More projects coming soon! 🔥
