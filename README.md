@@ -32,6 +32,7 @@ This repo is where I practice, experiment, and grow — one project at a time.
 | 02    | Number Guessing Game        | basic| [guess-the-number](basic_projects/number-guessing-game) |
 | 03    | Rock Paper Scissor       | basic| [rock_paper_scissor](basic_projects/rock_paper_scissor) |
 | 04    | DRY PRINCIPLE       | basic| [rock_paper_scissor](basic_projects/rock_paper_scissor) |
+| 04    | QR Code generator       | basic| [qr code generator](basic_projects/qr-code-generator) |
 
 
 > More projects coming soon! 🔥
