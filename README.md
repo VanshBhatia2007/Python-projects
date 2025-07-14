@@ -31,6 +31,7 @@ This repo is where I practice, experiment, and grow — one project at a time.
 | 01    | Dice Rolling Game           | basic             | [dice-rolling-game](basic_projects/dice-rolling-game) |
 | 02    | Number Guessing Game        | basic| [guess-the-number](basic_projects/number-guessing-game) |
 | 03    | Rock Paper Scissor       | basic| [rock_paper_scissor](basic_projects/rock_paper_scissor) |
+| 04    | DRY PRINCIPLE       | basic| [rock_paper_scissor](basic_projects/rock_paper_scissor) |
 
 
 > More projects coming soon! 🔥
