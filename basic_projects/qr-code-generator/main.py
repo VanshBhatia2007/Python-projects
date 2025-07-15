@@ -8,3 +8,8 @@ qr.add_data(data)
 image = qr.make_image(fill_color='black', back_color='white')
 image.save(filename)
 print(f"qr code saved as {filename}")
+
+# output :
+# enter the text or url : https://github.com/VanshBhatia2007
+# enter the file name : git.jpg
+# qr code saved as git.jpg
