@@ -33,7 +33,8 @@ This repo is where I practice, experiment, and grow — one project at a time.
 | 03    | Rock Paper Scissor       | basic| [rock_paper_scissor](basic_projects/rock_paper_scissor) |
 | 04    | DRY PRINCIPLE       | basic| [rock_paper_scissor](basic_projects/rock_paper_scissor) |
 | 05    | QR Code generator       | basic| [qr code generator](basic_projects/qr-code-generator) |
-| 04    | Digital Clock       | basic| [digital clock](basic_projects/digital_clock) |
+| 06    | Digital Clock       | basic| [digital clock](basic_projects/digital_clock) |
+| 07    | Tic Tac Toe       | medium| [tic tac toe](medium_projects/tic-tac-toe) |
 
 > More projects coming soon! 🔥
 
