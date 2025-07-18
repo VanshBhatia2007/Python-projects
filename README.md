@@ -35,6 +35,7 @@ This repo is where I practice, experiment, and grow — one project at a time.
 | 05    | QR Code generator       | basic| [qr code generator](basic_projects/qr-code-generator) |
 | 06    | Digital Clock       | basic| [digital clock](basic_projects/digital_clock) |
 | 07    | Tic Tac Toe       | medium| [tic tac toe](medium_projects/tic-tac-toe) |
+| 08    | Whatsapp message automation       | basic| [wp automatic msg](basic_projects/wp-automatic-msg) |
 
 > More projects coming soon! 🔥
 
