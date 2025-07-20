@@ -36,6 +36,7 @@ This repo is where I practice, experiment, and grow — one project at a time.
 | 06    | Digital Clock       | basic| [digital clock](basic_projects/digital_clock) |
 | 07    | Tic Tac Toe       | medium| [tic tac toe](medium_projects/tic-tac-toe) |
 | 08    | Whatsapp message automation       | basic| [wp automatic msg](basic_projects/wp-automatic-msg) |
+| 08    | Text to handwritting       | basic| [text to handwritiing](basic_projects/text-to-handwritting) |
 
 > More projects coming soon! 🔥
 
