@@ -38,6 +38,7 @@ This repo is where I practice, experiment, and grow — one project at a time.
 | 08    | Whatsapp message automation       | basic| [wp automatic msg](basic_projects/wp-automatic-msg) |
 | 09    | Text to handwritting       | basic| [text to handwritiing](basic_projects/text-to-handwritting) |
 | 10    | Video to Audio converter       | basic| [Video to Audio](basic_projects/video-to-audio) |
+| 11    | Random Password Generator       | basic| [password generator](basic_projects/password-generator) |
 
 > More projects coming soon! 🔥
 
