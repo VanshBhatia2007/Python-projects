@@ -30,3 +30,16 @@ for i in range(length):
     password.append(randomchar)
 
 print("The random password is " + "".join(password))
+
+# output :
+# Enter the length of password: 10
+# choose the character set for password :
+#                   1. numbers
+#                   2. letters
+#                   3. special characters
+#                   4. exit
+# Pick a number 1
+# Pick a number 2
+# Pick a number 3
+# Pick a number 4
+# The random password is ]AlN3Z'7I@
