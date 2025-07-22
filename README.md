@@ -39,6 +39,7 @@ This repo is where I practice, experiment, and grow — one project at a time.
 | 09    | Text to handwritting       | basic| [text to handwritiing](basic_projects/text-to-handwritting) |
 | 10    | Video to Audio converter       | basic| [Video to Audio](basic_projects/video-to-audio) |
 | 11    | Random Password Generator       | basic| [password generator](basic_projects/password-generator) |
+| 11    | PDF Rotater       | basic| [pdf rotater](basic_projects/rotate-pdf) |
 
 > More projects coming soon! 🔥
 
