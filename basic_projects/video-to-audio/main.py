@@ -2,8 +2,8 @@ from moviepy import *
 from tkinter.filedialog import askopenfilename
 
 
-
-video = moviepy.VideoFileClip(r"C:\Users\HP\Downloads\Recording 2025-07-16 184431.mp4")
+vid = askopenfilename()
+video = VideoFileClip(vid)
 
 aud = video.audio
 
