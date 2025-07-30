@@ -42,8 +42,8 @@ This repo is where I practice, experiment, and grow — one project at a time.
 | 12    | PDF Rotater       | basic| [pdf rotater](basic_projects/rotate-pdf) |
 | 13    | Video To GIF Converter       | basic| [video to GIF](basic_projects/video-to-gif) |
 | 14    | PDF To DOCX Converter       | basic| [pdf to docs](basic_projects/pdf-to-docs) |
-| 14    | PDF To Image Converter       | basic| [pdf to image](basic_projects/pdf-to-image) |
-
+| 15    | PDF To Image Converter       | basic| [pdf to image](basic_projects/pdf-to-image) |
+| 16    | Rent Calculator       | basic| [rent calculator](basic_projects/rent-calculator) |
 > More projects coming soon! 🔥
 
 
